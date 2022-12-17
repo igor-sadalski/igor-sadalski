@@ -1,8 +1,9 @@
 #  Igor Sadalski - Nice to meet you!
 
-<p style="text-align: center;">
-  <img src="Caltech-placement.jpg" style="max-width: 200px;">
+<p align="center">
+  <img src="Caltech-placement.jpg" width="50%" height="50%">
 </p>
+
 
 
 ## About Me
@@ -13,8 +14,8 @@ Robotics Researcher @ Caltech
 
 
 ## Projects
-1. Hopper_Hardware
-2. Maze_Navigation
+1. Hopper_Hardware - developing and optimizing WiFi communication with the robot (part of Caltech placament)
+2. Maze_Navigation -low level C development of a whole software stack to move small robot in a maze based on colors 
 
 ## Technologies
 * Linux OS, bash scripting, UNIX commands, VIM, I3
@@ -25,6 +26,6 @@ Robotics Researcher @ Caltech
 * Matlab, Simulink, Solidworks, Fusion 360, Visual Studio Code, CLion, Git & GitHub
 
 ## Have a nice day!
-<p style="text-align: center;">
-  <img src="climbing.jpg" style="max-width: 200px;">
+<p align="center">
+  <img src="climbing.jpg" width="50%" height="50%">
 </p>
