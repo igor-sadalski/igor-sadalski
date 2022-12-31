@@ -1,21 +1,32 @@
 #  Igor Sadalski - Nice to meet you!
 
 <p align="center">
-  <img src="Caltech-placement.jpg" width="50%" height="50%">
+  <img src="Caltech-placement.jpg" width="40%" height="40%">
 </p>
 
 
 
 ## About Me
-I am very passionate about robotics in specific motion planing and control. My specific interest cover the 
+I am a prospective PhD student with a keen interest in data-driven
+control techniques for legged locomotion. Specifically, I am passionate
+about developing hybrid model predictive control and reinforcement learning methods for safety-aware
+online planning of adaptive locomotion.
 
 Mechanical Engineering @ Imperial College London
 Robotics Researcher @ Caltech
 
+## Portfolio
+Please see poster attached in files:
+### Research Placement: Nonlinear Model Predictive Control of a 3D Hopping Robot
+adfadf
+### Literature Review: "Aplication of Reinforcement Learning for Autonomous Driving"
+adfadf
 
-## Projects
-1. Hopper_Hardware - developing and optimizing WiFi communication with the robot (part of Caltech placament)
-2. Maze_Navigation -low level C development of a whole software stack to move small robot in a maze based on colors 
+### Hopper_Hardware -
+developing and optimizing WiFi communication with the robot (part of Caltech placament)
+ 
+### Maze_Navigation 
+-low level C development of a whole software stack to move small robot in a maze based on colors 
 
 ## Technologies
 * Linux OS, bash scripting, UNIX commands, VIM, I3
