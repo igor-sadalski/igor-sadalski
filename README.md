@@ -23,12 +23,14 @@ developing and optimizing WiFi communication with the robot (part of Caltech pla
 
 https://github.com/noelc-s/ARCHER_hopper
 
+[surf_poster](https://github.com/igor-sadalski/igor-sadalski/blob/main/Igor_Sadalski_Poster_SURF_2022_Nonlinear_Model_Predictive_Control_Hopper.pdf)
+
 <p align="center">
   <img src="SURF_Poster.png" width="40%" height="40%">
 </p>
 
 ### Literature Review: "Aplication of Reinforcement Learning for Autonomous Driving"
-adfadf
+[literature review](https://github.com/igor-sadalski/igor-sadalski/blob/main/Application-of-RL-for-AVs-2.pdf)
 
 <p align="center">
   <img src="DDPG_RL_method.png" width="40%" height="40%">
@@ -36,6 +38,8 @@ adfadf
  
 ### Maze_Navigation 
 -low level C development of a whole software stack to move small robot in a maze based on colors 
+[maze navigation](https://github.com/igor-sadalski/Maze_Navigation)
+
 
 <p align="center">
   <img src="maze_navigation_robot.png" width="40%" height="40%">
