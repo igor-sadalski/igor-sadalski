@@ -15,37 +15,38 @@ online planning of adaptive locomotion.
 BEng Mechanical Engineering @ Imperial College London <br>
 Robotics Researcher @ Caltech
 
+contact: igor.sadalski@gmail.com
+
 ## Portfolio
-Please see poster attached in files:
-### Research Placement: Nonlinear Model Predictive Control of a 3D Hopping Robot
-Hopper_Hardware -
-developing and optimizing WiFi communication with the robot (part of Caltech placament)
+Below you may find some of my projects:
 
-https://github.com/noelc-s/ARCHER_hopper
+### Research Placement: Nonlinear Model Predictive Control of a 3D hopping robot
 
-[surf_poster](https://github.com/igor-sadalski/igor-sadalski/blob/main/Igor_Sadalski_Poster_SURF_2022_Nonlinear_Model_Predictive_Control_Hopper.pdf)
+I was selected for a full scholarship in Advanced Mechanical Bipedal Experimental Robotics Lab working on Model
+Predictive Control for a custom developed robotic hardware under Prof. Aaron Ames, part of the SURF program. Here is a poster detailing my work [surf_poster](https://github.com/igor-sadalski/igor-sadalski/blob/main/Igor_Sadalski_Poster_SURF_2022_Nonlinear_Model_Predictive_Control_Hopper.pdf)
+as well as low-level driver for the hardware [low level code](https://github.com/igor-sadalski/Hopper_Hardware) and MPC implementation, [MPC code](https://github.com/noelc-s/ARCHER_hopper), where I helped senior PhD Caltech student Noel Csomay-Shanklin. I was mentioned in acknoledgements of paper: *Csomay-Shanklin, N., Dorobantu, V.D. and Ames, A.D., 2022. Nonlinear Model Predictive Control of a 3D Hopping Robot: Leveraging Lie Group Integrators for Dynamically Stable Behaviors. arXiv preprint arXiv:2209.11808.*
+
 
 <p align="center">
   <img src="SURF_Poster.png" width="40%" height="40%">
 </p>
 
-### Literature Review: "Aplication of Reinforcement Learning for Autonomous Driving"
-[literature review](https://github.com/igor-sadalski/igor-sadalski/blob/main/Application-of-RL-for-AVs-2.pdf)
+### Literature Review
+Based on nearly 70+ papers from leading journals like ICRA, NeurIPs, CoRL, IROS, etc. I created a comphrehnsive work on state of the art RL lagorithms for autonomous driving titled "Aplication of Reinforcement Learning for Autonomous Driving", [literature review](https://github.com/igor-sadalski/igor-sadalski/blob/main/Application-of-RL-for-AVs-2.pdf).
 
 <p align="center">
   <img src="DDPG_RL_method.png" width="40%" height="40%">
 </p>
  
 ### Maze_Navigation 
--low level C development of a whole software stack to move small robot in a maze based on colors 
-[maze navigation](https://github.com/igor-sadalski/Maze_Navigation)
-
+As a part of a course on embeded programing in C with a partner from scratch (implementing our own drivers for motors, color drivers, I2C communication) we developed a small robot navigating a maze based on color cards with [code maze navigation](https://github.com/igor-sadalski/Maze_Navigation).
 
 <p align="center">
   <img src="maze_navigation_robot.png" width="40%" height="40%">
 </p>
 
-
+### Engineering Drawings
+Both by passion and by training I love design and manufacturing. Here are some engineering drawings (both by hand and CAD) of projects which I was working on.
 
 ## Technologies
 * Linux OS, bash scripting, UNIX commands, VIM, I3
