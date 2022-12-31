@@ -47,7 +47,7 @@ As a part of a course on embeded programing in C with a partner from scratch (im
 </p>
 
 ### Engineering Drawings
-Both by passion and by training I love design and manufacturing. Here are some engineering drawings: my [hand sketches]([https://github.com/igor-sadalski/Maze_Navigation](https://github.com/igor-sadalski/igor-sadalski/blob/main/hand_drawing.pdf)), [assembly drawings]([https://github.com/igor-sadalski/Maze_Navigation](https://github.com/igor-sadalski/igor-sadalski/blob/main/01848914-Assembly-1.pdf)), [detailed drawings]([https://github.com/igor-sadalski/Maze_Navigation](https://github.com/igor-sadalski/igor-sadalski/blob/main/01848914-Detail-1.pdf)).
+Both by passion and by training I love design and manufacturing. Here are some engineering drawings: my [hand sketches](https://github.com/igor-sadalski/igor-sadalski/blob/main/hand_drawing.pdf), [assembly drawings](https://github.com/igor-sadalski/igor-sadalski/blob/main/01848914-Assembly-1.pdf), [detailed drawings](https://github.com/igor-sadalski/igor-sadalski/blob/main/01848914-Detail-1.pdf).
 
 
 ## Technologies
