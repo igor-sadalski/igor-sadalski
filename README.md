@@ -26,6 +26,10 @@ I was selected for a full scholarship in Advanced Mechanical Bipedal Experimenta
 Predictive Control for a custom developed robotic hardware under Prof. Aaron Ames, part of the SURF program. Here is a poster detailing my work [surf poster](https://github.com/igor-sadalski/igor-sadalski/blob/main/Igor_Sadalski_Poster_SURF_2022_Nonlinear_Model_Predictive_Control_Hopper.pdf)
 as well as low-level driver for the hardware [low level code](https://github.com/igor-sadalski/Hopper_Hardware) and MPC implementation, [MPC code](https://github.com/noelc-s/ARCHER_hopper), where I helped senior PhD Caltech student Noel Csomay-Shanklin.
 
+<p align="center">
+  <img src="SURF_Poster.png" width="40%" height="40%">
+</p>
+
 For my work I was mentioned in acknoledgements of paper: *Csomay-Shanklin, N., Dorobantu, V.D. and Ames, A.D., 2022. Nonlinear Model Predictive Control of a 3D Hopping Robot: Leveraging Lie Group Integrators for Dynamically Stable Behaviors. arXiv preprint arXiv:2209.11808.*
 
 ### Literature Review: "Aplication of Reinforcement Learning for Autonomous Driving"
@@ -44,10 +48,6 @@ As a part of a course on embeded programing in C with a partner from scratch (im
 
 ### Engineering Drawings
 Both by passion and by training I love design and manufacturing. Here are some engineering drawings: my [hand sketches](https://github.com/igor-sadalski/igor-sadalski/blob/main/hand_drawing.pdf), [assembly drawings](https://github.com/igor-sadalski/igor-sadalski/blob/main/01848914-Assembly-1.pdf), [detailed drawings](https://github.com/igor-sadalski/igor-sadalski/blob/main/01848914-Detail-1.pdf).
-
-<p align="center">
-  <img src="SURF_Poster.png" width="40%" height="40%">
-</p>
 
 
 ## Technologies 
