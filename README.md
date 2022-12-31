@@ -8,25 +8,40 @@
 
 ## About Me
 I am a prospective PhD student with a keen interest in data-driven
-control techniques for legged locomotion. Specifically, I am passionate
+control techniques for legged locomotion and autonomous driving. Specifically, I am passionate
 about developing hybrid model predictive control and reinforcement learning methods for safety-aware
 online planning of adaptive locomotion.
 
-Mechanical Engineering @ Imperial College London
+BEng Mechanical Engineering @ Imperial College London <br>
 Robotics Researcher @ Caltech
 
 ## Portfolio
 Please see poster attached in files:
 ### Research Placement: Nonlinear Model Predictive Control of a 3D Hopping Robot
-adfadf
+Hopper_Hardware -
+developing and optimizing WiFi communication with the robot (part of Caltech placament)
+
+https://github.com/noelc-s/ARCHER_hopper
+
+<p align="center">
+  <img src="SURF_Poster.png" width="40%" height="40%">
+</p>
+
 ### Literature Review: "Aplication of Reinforcement Learning for Autonomous Driving"
 adfadf
 
-### Hopper_Hardware -
-developing and optimizing WiFi communication with the robot (part of Caltech placament)
+<p align="center">
+  <img src="DDPG_RL_method.png" width="40%" height="40%">
+</p>
  
 ### Maze_Navigation 
 -low level C development of a whole software stack to move small robot in a maze based on colors 
+
+<p align="center">
+  <img src="maze_navigation_robot.png" width="40%" height="40%">
+</p>
+
+
 
 ## Technologies
 * Linux OS, bash scripting, UNIX commands, VIM, I3
