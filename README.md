@@ -13,7 +13,9 @@ about developing **hybrid model predictive control and reinforcement learning me
 online planning of adaptive locomotion**.
 
 BEng Mechanical Engineering @ Imperial College London <br>
-Robotics Researcher @ Caltech
+MSc Computing AI and ML @ Imperial College London
+Robotics Researcher @ Caltech 2023
+Robotics Researcher @ Caltech 2022
 
 contact: igor.sadalski@gmail.com
 
