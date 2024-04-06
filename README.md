@@ -7,10 +7,6 @@
 
 
 ## About Me
-I am a prospective PhD student with a keen interest in **data-driven
-control techniques for legged locomotion** and autonomous driving. Specifically, I am passionate
-about developing **hybrid model predictive control and reinforcement learning methods for safety-aware
-online planning of adaptive locomotion**.
 
 BEng Mechanical Engineering @ Imperial College London <br>
 MSc Computing AI and ML @ Imperial College London
