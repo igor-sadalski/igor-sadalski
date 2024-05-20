@@ -14,7 +14,7 @@ Undergrad Research @ Caltech 2022
 contact: igor.sadalski@gmail.com
 
 ## Portfolio
-Below you may find some of my projects:
+Code samples are available [here](https://github.com/igor-sadalski/code_samples_igor_sadalski)
 
 
 ### ML-Based Acurte Kindey Injurty Detection System for Simulated Hospital
