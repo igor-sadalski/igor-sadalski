@@ -4,19 +4,39 @@
   <img src="Caltech-placement.jpg" width="40%" height="40%">
 </p>
 
-
-
 ## About Me
 
-BEng Mechanical Engineering @ Imperial College London <br>
 MSc Computing AI and ML @ Imperial College London
-Robotics Researcher @ Caltech 2023
-Robotics Researcher @ Caltech 2022
+Grad Research @ Harvard 2024
+Undergrad Research @ Caltech 2023
+Undergrad Research @ Caltech 2022
 
 contact: igor.sadalski@gmail.com
 
 ## Portfolio
 Below you may find some of my projects:
+
+
+### ML-Based Acurte Kindey Injurty Detection System for Simulated Hospital
+
+Working in a team of 3 worked on prediction system for a simulated hospital used to detect the acute kidney injury (AKI). In the end our model exceeded the NHS algorithm benchmark by enhancing detection rates from 70% to 95%. Designed and implemented an end-to-end system utilizing Docker and ubernetes for cloud deployment. Engineered infrastructure resilience for common data-center failures, addressing issues ike unexpected socket closures and data
+retrieval on cluster node failures, leveraging open-source solutions to onitor the system. Lastly, we implemented Prometheus for event monitoring and alerting.
+
+### Dynamic Multi-Vehicle Routing with Stochastic Trip Requests for Paratransit Services
+
+Working with senior PhD student, Daniel Garces, at Harvard University CS Department I help implement some state of the art algorithms used to route fleets of buses. On top of this helped implement large simulator to model how requests come into the system
+
+### Conditional Variational Autoencoder for Safe Drone Flight
+
+Working under senior PhD student Ryan Cosner, help gathered data from real life drone and then based on it develop CVAE that could be used to quantify the uncertainty. This was later used to develop safety-based controller.
+
+### Retrieval Augmented Generation (RAG) LLM based Chatbook
+
+Experimented with various preprocesing document techniques, performed indexing using Elastic Search used newest version of Elastic Learned Sparse Encode to get embeddings for pre-processed parts. Then used Hugging face to download the weights for the google gemma-2b-it tokenizer and model. Lastly I created a prompt building algorithm that combined the retrieved book passages with the user query and returned the results in a interactive session with user.
+
+### Brain Super Resolution
+
+Brain connections can be maped accurately as a graph using large and expensive MRI machines. One idea to decrease costs is to use simpler mapping techniques and then increase the resolution of the brain map (represented as graph) using Graph Neural Networks. This projects (which was a Kaggle competition) tried to achieve this. 
 
 ### Caltech Research Placement: "Nonlinear Model Predictive Control of a 3D hopping robot"
 
@@ -37,25 +57,6 @@ Based on nearly 70+ papers from leading journals like ICRA, NeurIPs, CoRL, IROS,
   <img src="DDPG_RL_method.png" width="40%" height="40%">
 </p>
  
-### Maze Navigation 
-As a part of a course on embeded programing in C with a partner from scratch (implementing our own drivers for motors, color drivers, I2C communication) we developed a small robot navigating a maze based on color cards with [code maze navigation](https://github.com/igor-sadalski/Maze_Navigation).
-
-<p align="center">
-  <img src="maze_navigation_robot.png" width="40%" height="40%">
-</p>
-
-### Engineering Drawings
-Both by passion and by training I love design and manufacturing. Here are some engineering drawings: my [hand sketches](https://github.com/igor-sadalski/igor-sadalski/blob/main/hand_drawing.pdf), [assembly drawings](https://github.com/igor-sadalski/igor-sadalski/blob/main/01848914-Assembly-1.pdf), [detailed drawings](https://github.com/igor-sadalski/igor-sadalski/blob/main/01848914-Detail-1.pdf).
-
-
-## Technologies 
-* Linux OS, bash scripting, UNIX commands, VIM, I3
-* C++/C - STL, Make, CMake, Eigen, Pinocchio
-* Embeded programing: I2C, SPI, LCD displays, PWM for motor control, light sensors
-* Python - NumPy, Matplotlib, SciPy, Pandas, Seaborn
-* Arduino, MuJoCo, URDF, ROS I, Gazebo, socket programming with UDP TCP/IP protocols, OptiTrack
-* Matlab, Simulink, Solidworks, Fusion 360, Visual Studio Code, CLion, Git & GitHub
-
 ## Have a nice day!
 <p align="center">
   <img src="climbing.jpg" width="40%" height="40%">
