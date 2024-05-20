@@ -6,16 +6,14 @@
 
 ## About Me
 
-MSc Computing AI and ML @ Imperial College London
-Grad Research @ Harvard 2024
-Undergrad Research @ Caltech 2023
-Undergrad Research @ Caltech 2022
+MSc Computing AI and ML @ Imperial College London <br />
+Grad Research @ Harvard 2024 <br />
+Undergrad Research @ Caltech 2023 <br />
+Undergrad Research @ Caltech 2022 <br />
 
 contact: igor.sadalski@gmail.com
 
-## Portfolio
-
-=====> code for my projects is available here  [here](https://github.com/igor-sadalski/code_samples_igor_sadalski) <========
+# ===> code for my projects is available [here](https://github.com/igor-sadalski/code_samples_igor_sadalski) <===
 
 
 ### ML-Based Acurte Kindey Injurty Detection System for Simulated Hospital
